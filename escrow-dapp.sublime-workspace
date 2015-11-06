@@ -1,0 +1,1939 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"state"
+			],
+			[
+				"Tem",
+				"Template"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tm",
+				"template"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"@col",
+				"@colorGrayDark"
+			],
+			[
+				"@",
+				"@colorGray"
+			],
+			[
+				"border-b",
+				"border-bottom-color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"bord",
+				"border-bottom-color"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"toke",
+				"tokenAddress"
+			],
+			[
+				"abi",
+				"abi-input"
+			],
+			[
+				"border-botto",
+				"border-bottom-width"
+			],
+			[
+				"Templa",
+				"TemplateVar"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"fnu",
+				"function"
+			],
+			[
+				"not",
+				"notification"
+			],
+			[
+				"Tok",
+				"Tokens"
+			],
+			[
+				"new",
+				"newDocument"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"act",
+				"selectAction"
+			],
+			[
+				"selected",
+				"selectedToken"
+			],
+			[
+				"selec",
+				"selectedToken"
+			],
+			[
+				"current",
+				"currentTarget"
+			],
+			[
+				"sec",
+				"selected"
+			],
+			[
+				"Token",
+				"TokenContract"
+			],
+			[
+				"T",
+				"Template"
+			],
+			[
+				"bala",
+				"balances"
+			],
+			[
+				"balan",
+				"balance"
+			],
+			[
+				"@colo",
+				"@colorGreen"
+			],
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"tra",
+				"transactionIndex"
+			],
+			[
+				"conn",
+				"connectToNode"
+			],
+			[
+				"wall",
+				"walletEvents"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"Wall",
+				"WalletContract"
+			],
+			[
+				"init",
+				"initiator"
+			],
+			[
+				"@grid",
+				"@gridHeight"
+			],
+			[
+				"@def",
+				"@defaultMargin"
+			],
+			[
+				"conso",
+				"console.	console.log()"
+			],
+			[
+				"checkpoint",
+				"checkpointBlock"
+			],
+			[
+				"Tr",
+				"Transactions"
+			],
+			[
+				"check",
+				"checkpoint"
+			],
+			[
+				"mian",
+				"mainNetAddress"
+			],
+			[
+				"gas",
+				"gasPrice"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"@color",
+				"@colorGray"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"form",
+				"formattedResult"
+			],
+			[
+				"pint",
+				"point"
+			],
+			[
+				"or",
+				"original"
+			],
+			[
+				"has",
+				"hashbang"
+			],
+			[
+				"tes",
+				"testCollection"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"wie",
+				"weiMinusDailyLimit"
+			],
+			[
+				"daily",
+				"dailyLimit"
+			],
+			[
+				"wa",
+				"walletStubABICompiled"
+			],
+			[
+				"d",
+				"disable"
+			],
+			[
+				"de",
+				"deployedData"
+			],
+			[
+				"estimate",
+				"estimatedGas"
+			],
+			[
+				"esti",
+				"estimatedGas"
+			],
+			[
+				"est",
+				"estimates"
+			],
+			[
+				"ex",
+				"exitingTx"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"@gr",
+				"@gridHeight"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"is",
+				"isUppercase"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"e",
+				"estimatedFee"
+			],
+			[
+				"_",
+				"_current"
+			],
+			[
+				"da",
+				"dapp_etherUnit"
+			],
+			[
+				"a",
+				"amount"
+			],
+			[
+				"depe",
+				"depend"
+			],
+			[
+				"depend",
+				"Dependency"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"console",
+				"console	console.log()"
+			],
+			[
+				"Eth",
+				"EthBlocks"
+			],
+			[
+				"ac",
+				"account"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"ow",
+				"ownerAddress"
+			],
+			[
+				"blo",
+				"blockToCheckBack"
+			],
+			[
+				"block",
+				"blockNumber"
+			],
+			[
+				"confi",
+				"confirmed"
+			],
+			[
+				"contr",
+				"Contract"
+			],
+			[
+				"tran",
+				"transactionHash"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"ch",
+				"checkOverDailyLimit"
+			],
+			[
+				"pro",
+				"myPropertyName"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"confir",
+				"Confirm"
+			],
+			[
+				"Temp",
+				"TemplateVar"
+			],
+			[
+				"las",
+				"lastActivityBlock"
+			],
+			[
+				"pending",
+				"pendingConf"
+			],
+			[
+				"iden",
+				"identity"
+			],
+			[
+				"owner",
+				"owners"
+			],
+			[
+				"eth",
+				"ethereumConfig"
+			],
+			[
+				"dail",
+				"dailyLimit"
+			],
+			[
+				"update",
+				"updateContractData"
+			],
+			[
+				"num",
+				"numberOfOwners"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"dep",
+				"depositTx"
+			],
+			[
+				"pen",
+				"pendingConf"
+			],
+			[
+				"sort",
+				"sortAccounts"
+			],
+			[
+				"confI",
+				"confirmationId"
+			],
+			[
+				"conf",
+				"confirmedOwners"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"Pe",
+				"PendingConfirmations"
+			],
+			[
+				"pe",
+				"pending"
+			],
+			[
+				"fr",
+				"formValues"
+			],
+			[
+				"multisig",
+				"Multisignature"
+			],
+			[
+				"Te",
+				"TemplateVar"
+			],
+			[
+				"sel",
+				"selectedOwner"
+			],
+			[
+				"accon",
+				"account"
+			],
+			[
+				"blco",
+				"blockNumber"
+			],
+			[
+				"blck",
+				"blockHash"
+			],
+			[
+				"old",
+				"oldDocument"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 2748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# Magic escrow button\n\nThis Dapp uses [this simple escrow contract](https://gist.github.com/chriseth/b16e8e76a423b7671e99) to make a button itself the escro service.\n\nSimple change the contract address of the `{{> buyButton}}` in the index.html to a newly deployed contract.\n\nThen visit this page with web3 initialized",
+			"file": "README.md",
+			"file_size": 9,
+			"file_write_time": 130912985540000000,
+			"settings":
+			{
+				"buffer_size": 318,
+				"line_ending": "Unix",
+				"name": "README.md"
+			}
+		},
+		{
+			"file": "client/buyButton.html",
+			"settings":
+			{
+				"buffer_size": 406,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/buyButton.js",
+			"settings":
+			{
+				"buffer_size": 6656,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/styles.less",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "packages/dapp-styles/buttons.import.less",
+			"settings":
+			{
+				"buffer_size": 1884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "packages/dapp-styles/constants.import.less",
+			"settings":
+			{
+				"buffer_size": 1560,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "lore",
+		"selected_items":
+		[
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"eth",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"Lorem",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"ore",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"orem",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"Lore",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"lor",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"lo",
+				"LoremIpsum: (5) a bit"
+			]
+		],
+		"width": 543.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/.meteor",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/client",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages"
+	],
+	"file_history":
+	[
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/meteor-persistent-minimongo/persistent-minimongo.js",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/meteor-persistent-minimongo/package.js",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/.meteor/packages",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/client/index.html",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/dapp-styles/package.js",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/escrow-dapp.less",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/dapp-styles/constants.import.less",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/dapp-styles/buttons.import.less",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/dapp-styles/elements.import.less",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/dapp-styles/containers.import.less",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/dapp-styles/README.md",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/escrow-dapp.html",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/buyButton.html",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/buyButton.js",
+		"/Users/frozeman/Sites/_ethereum/escrow-dapp/packages/dapp-styles/lib/base/base/_mixins.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/transactionTable.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/observeTransactions.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/walletConnector.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/observeBlocks.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/selectAccount.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/wallet.sol",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/helpers/helperFunctions.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/selectAccount.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/account_create.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/tokenBox.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/tokenBox.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/tokens.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/tokens.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/styles/elements.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/observeTokens.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/addToken.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/addToken.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/.meteor/versions",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/observeWallets.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/inputs/uint.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/transactionInfo.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/compileContract.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/buttons.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/package.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/send.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/send.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/i18n/wallet.en.i18n.json",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/inputs/bytes.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/inputs/int.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/compileContract.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/inputs/bool.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/inputs/string.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/tokenABI.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/package.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/styles/main.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/dataTextarea.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/inputs/address.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/selectAccount.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/selectAccount.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/addressInput.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/elements.import.less",
+		"/Users/frozeman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/account.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/transactionTable.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/transactionInfo.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/account.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/1_web3Init.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/selectGasPrice.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-tools/ethtools.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-tools/package.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/appStart.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/qrCode.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/qrCode.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/helpers/templateHelpers.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/elements.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/walletABI.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/account.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/dashboard.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/containers.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/collections.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/.meteor/packages",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/layout/header.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/index.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/dashboard.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/mixins.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-accounts/accounts.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-blocks/blocks.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-blocks/package.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-persistent-minimongo/package.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-persistent-minimongo/persistent-minimongo.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/.gitignore",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/.gitignore",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-accounts/package.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/web3.js/lib/web3.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/layout/header.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/routes.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/elements/account.js",
+		"/Users/frozeman/Sites/test1/packages/web3.js/lib/version.json",
+		"/Users/frozeman/Sites/test1/packages/meteor-ethereum-accounts/accounts.js",
+		"/Users/frozeman/Sites/test1/packages/meteor-ethereum-accounts/package.js",
+		"/Users/frozeman/Sites/test1/packages/web3.js/package.js",
+		"/Users/frozeman/Sites/test1/test1.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/identicon.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/identicon.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/lib/ethereum/observePendingConfirmations.js",
+		"/Users/frozeman/Sites/meteor-object-missing-from-query-bug/meteor-object-missing-from-query-bug.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-persistent-minimongo2/package.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-persistent-minimongo2/persistent-minimongo.js",
+		"/Users/frozeman/Sites/_ethereum/morden_genesis.json",
+		"/Users/frozeman/Sites/meteor-object-missing-from-query-bug/packages/meteor-persistent-minimongo2/persistent-minimongo.js",
+		"/Users/frozeman/Sites/meteor-object-missing-from-query-bug/packages/meteor-persistent-minimongo2/package.js",
+		"/Users/frozeman/Sites/meteor-object-missing-from-query-bug/.meteor/packages",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-persistent-minimongo2/persistent-minimongo-tests.js",
+		"/Users/frozeman/Downloads/testnet.json",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-persistent-minimongo2/README.md",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/web3.js/lib/web3/ipcprovider.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/i18n/morden_genesis.json",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/account_create.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/views/modals/sendTransactionInfo.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/lib/simple-line-icons.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/package.json",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/window.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/constants.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/mist.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/client/templates/layout/main.html",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/README.md",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/project-tap.i18n",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/gulpfile.js",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/responsive.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/fonts.import.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/README.md",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements/main.less",
+		"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/dapp-styles/dist/dapp-styles.css"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet, -.meteor/, -node_modules/",
+			"/Users/frozeman/Sites/_ethereum/mist/node_modules/web3/dist",
+			"/Users/frozeman/Sites/_ethereum/mist/node_modules/web3, -node_modules/",
+			"/Users/frozeman/Sites/_ethereum/mist/node_modules/web3, -node_modules",
+			"/Users/frozeman/Sites/_ethereum/mist/node_modules/web3",
+			"/Users/frozeman/Sites/_ethereum/mist/node_modules/web3, -node_modules/",
+			"/Users/frozeman/Sites/_ethereum/mist/node_modules/web3, -node_modules/, -dist/",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/, -.meteor/, -node_modules/",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/, -.meteor/",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/web3.js",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/web3.js/test",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/web3.js/lib",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet, -.meteor/, -packages/",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet, -packages/, -.meteor/",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet, -packages/",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app, -.meteor/",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet/app/packages/meteor-ethereum-elements",
+			"/Users/frozeman/Sites/_ethereum/meteor-dapp-wallet, -.meteor/, -packages/",
+			"/Users/frozeman/Sites/meteor-dapp-wallet, -.meteor/, -packages/",
+			"/Users/frozeman/Sites/meteor-dapp-wallet, -.meteor/",
+			"/Users/frozeman/Sites/meteor-dapp-wallet",
+			"/Users/frozeman/Sites/testApp/build/ios",
+			"/Users/frozeman/Sites/testApp/build/bundle/programs",
+			"/Users/frozeman/Sites/testApp/build/bundle",
+			"/Users/frozeman/Sites/meteor-dapp-wallet, -.meteor/, -npm-container/",
+			"/Users/frozeman/Sites/whisper-client/app, -.meteor/, -npm-container/",
+			"/Users/frozeman/Sites/amadeo/app, -.meteor/, -npm-container/",
+			"/Users/frozeman/Sites/amadeo/app, -.meteor/, -npm-container/, -server/, -shared/",
+			"/Users/frozeman/Sites/amadeo, -.meteor/, -npm-container/, -server/, -shared/",
+			"/Users/frozeman/Sites/amadeo, -.meteor/, -npm-container/, -server, -shared",
+			"/Users/frozeman/Sites/amadeo, -.meteor/, -npm-container/",
+			"/Users/frozeman/Sites/amadeo, -.meteor/, -npm-container/, -shared/, -server/",
+			"/Users/frozeman/Sites/amadeo, -.meteor/, -npm-container/",
+			"/Users/frozeman/Sites/amadeo, -.meteor/",
+			"/Users/frozeman/Sites/curendo, -.meteor/",
+			"/Users/frozeman/Sites/hr-widget-app, -.meteor/",
+			"/Users/frozeman/Sites/curendo/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Sale sucessfull",
+			"foundDoc",
+			"TemplateVar.get('value')",
+			"checkState",
+			"buttonText",
+			"buyer",
+			"TemplateVar.get('buyer')",
+			"buttonState",
+			"buttonClass",
+			"value",
+			"buyer",
+			"seller",
+			"this",
+			"basket",
+			"badge",
+			"bagde",
+			"eyeglasses",
+			"p {",
+			"1-px",
+			"h1",
+			");",
+			".dapp-active",
+			"header",
+			"footer",
+			"aside",
+			"active",
+			".active",
+			"header",
+			"aside",
+			"<span>",
+			"a href=\"#\"",
+			"require",
+			"onlySeller",
+			"tx",
+			"addresses",
+			"Wallets.",
+			"account.owners",
+			"getAccountByAddress",
+			"ownerAccounts",
+			"EthAcc",
+			"contract",
+			"ownerAccounts",
+			"confirm",
+			"alex",
+			"console.",
+			"symbol",
+			"newDocument",
+			"symbol",
+			"tokenAddress",
+			"\"",
+			"tokenAddress",
+			"tokenAddresstokenAddresstokenAddress",
+			"views_tokens",
+			"Modal",
+			"this.address",
+			"TokenContract",
+			"upload-contract",
+			"uploadContract",
+			"Upload",
+			"'upload'",
+			"tokenBalance",
+			"curren",
+			"noReceiver",
+			"addTransactionAfterSend",
+			"data",
+			"dapp-select-account",
+			"class",
+			"selectedContract",
+			"EthBlock",
+			"template",
+			"selectedContract",
+			"codeNotExecutable",
+			"checkOverDailyLimit",
+			".set",
+			"showOnlyByteTextarea",
+			"codeNotExecutable",
+			"showOnlyByteTextarea",
+			"onlyByteCode",
+			"codeNotExecutable",
+			"dapp-data-textarea",
+			"checkOverDailyLimit",
+			"sendData",
+			"byteCodeOnly",
+			"dataShown",
+			"showData",
+			"dataShown",
+			"e.currentTarget.value",
+			"TemplateVar.getFrom('.dapp-data-textarea', 'value')",
+			"byteCode",
+			"selectAction",
+			"select-action",
+			" input",
+			"upload-contract",
+			"send-funds",
+			"select-action",
+			"solidity-source",
+			"h3",
+			"'",
+			"compiled-contracts",
+			"compiled-contr",
+			".data",
+			"codeNotExecutable",
+			"token-ether",
+			"hasTokens",
+			"selectedContract",
+			"compiledContracts",
+			"contractFunctions",
+			"\"",
+			"blockNum",
+			"solidity-data",
+			"    display: none;",
+			"action",
+			"ecking transacti",
+			"importFilter",
+			"import",
+			"UPLOAD CONTRACT",
+			"logs",
+			"losg",
+			"FlowRouter.go",
+			"showNotification",
+			"block",
+			"addTransaction",
+			"Token trans",
+			"Acc",
+			".transf",
+			"console.lo",
+			"data",
+			"log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".active",
+			".dapp-active",
+			"deploy-contract",
+			"\\\"",
+			"",
+			"EthTools.setUnit(",
+			"EthTools.getUnit()",
+			"Meteor",
+			"EthTools.formatBalance",
+			"tx.origin",
+			"EthAccounts",
+			"EthBlocks",
+			"EthBlocks.",
+			"Blocks.latest.number",
+			"contracts['ct_'+ newDo",
+			"connectToNode",
+			"Helpers.eventLogs",
+			"wallet.newWallet",
+			"LastBlock.",
+			"LatestBlock.findOne('latest",
+			"pendingConfirmation",
+			"PendingConfirmation",
+			"@colorError",
+			"fromWei",
+			"dapp_identicon",
+			"dapp_modal",
+			"dapp_modal_question",
+			"dapp_addressInput",
+			"identicon",
+			".dapp-overflow",
+			"dapp-vertical-menu",
+			"dapp-horizontal-menu",
+			"messages",
+			"messageId",
+			"messagesId",
+			"Messages",
+			"sessionId",
+			"session",
+			"lastActivity",
+			"@colorGrayLight",
+			"dapp-button-reset",
+			"@colorMainBackgroundDark",
+			"@colorMainBackground",
+			"legalProtec",
+			"legal-",
+			"Helpers.log",
+			"Helpers.i18n",
+			"$\\1",
+			"preInsuranceNumber",
+			"quitByCustomer",
+			"quitByMe",
+			"plans.liability",
+			"liability.gold.",
+			"liability.silver.",
+			"liability.basic.",
+			"liability.rentDamageTitle",
+			"liability.borrowedDamagesTitle",
+			"liability.helpDamagesTitle",
+			"'",
+			"\"",
+			"\"landi",
+			"form_plans",
+			"firstname",
+			"lastname",
+			"partnerLastname",
+			"partnerFirstname",
+			"quitByMe",
+			"Cookie.get",
+			"{{> elements_shortProfile"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2603,
+								2612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 883.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"auto_name": "README.md",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/buyButton.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/buyButton.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1954,
+								1954
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1127.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "packages/dapp-styles/buttons.import.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1474,
+								1474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 696.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "packages/dapp-styles/constants.import.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "escrow-dapp.sublime-project",
+	"replace":
+	{
+		"height": 104.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"meteor-dapp-wallet/app/client/templates/views/send.html"
+			],
+			[
+				"helper",
+				"meteor-dapp-wallet/app/client/lib/helpers/helperFunctions.js"
+			],
+			[
+				"cre",
+				"meteor-dapp-wallet/app/client/templates/views/account_create.js"
+			],
+			[
+				"observ",
+				"meteor-dapp-wallet/app/client/lib/ethereum/observeTransactions.js"
+			],
+			[
+				"mist",
+				"meteor-dapp-wallet/app/client/mist.js"
+			],
+			[
+				"consta",
+				"meteor-dapp-wallet/app/packages/dapp-styles/constants.import.less"
+			],
+			[
+				"route",
+				"meteor-dapp-wallet/app/client/routes.js"
+			],
+			[
+				"trans",
+				"meteor-dapp-wallet/app/client/templates/views/modals/transactionInfo.html"
+			],
+			[
+				"index",
+				"meteor-dapp-wallet/build/index.html"
+			],
+			[
+				"main.l",
+				"elements-test/packages/meteor-ethereum-elements/main.less"
+			],
+			[
+				"mis",
+				"meteor-dapp-wallet/app/client/mist.js"
+			],
+			[
+				"main",
+				"meteor-dapp-wallet/app/client/styles/main.less"
+			],
+			[
+				"constan",
+				"meteor-dapp-wallet/build/dapp-styles/constants.import.less"
+			],
+			[
+				"init",
+				"meteor-dapp-wallet/app/client/lib/initialConfig.js"
+			],
+			[
+				"filter",
+				"meteor-dapp-wallet/app/packages/web3.js/lib/web3/filter.js"
+			],
+			[
+				"validatea",
+				"meteor-dapp-wallet/app/packages/web3.js/test/method.validateArgs.js"
+			],
+			[
+				"rou",
+				"meteor-dapp-wallet/app/client/routes.js"
+			],
+			[
+				"send",
+				"meteor-dapp-wallet/app/client/templates/views/send.js"
+			],
+			[
+				"mai",
+				"meteor-dapp-wallet/app/client/styles/main.less"
+			],
+			[
+				"ceate",
+				"meteor-dapp-wallet/app/client/templates/views/account_create.js"
+			],
+			[
+				"sen",
+				"meteor-dapp-wallet/app/client/templates/views/send.html"
+			],
+			[
+				"sne",
+				"meteor-dapp-wallet/app/client/templates/views/send.js"
+			],
+			[
+				"sned",
+				"meteor-dapp-wallet/app/client/templates/views/send.js"
+			],
+			[
+				"ini",
+				"meteor-dapp-wallet/app/client/lib/initialConfig.js"
+			],
+			[
+				"wallet.",
+				"meteor-dapp-wallet/app/i18n/wallet.en.i18n.json"
+			],
+			[
+				"rout",
+				"meteor-dapp-wallet/app/client/routes.js"
+			],
+			[
+				"coll",
+				"meteor-dapp-wallet/app/client/lib/collections.js"
+			],
+			[
+				"inde",
+				"meteor-dapp-wallet/build/index.html"
+			],
+			[
+				"mainl",
+				"meteor-dapp-wallet/app/client/styles/main.less"
+			],
+			[
+				"ico",
+				"meteor-dapp-wallet/app/public/fontawesome/icons.less"
+			],
+			[
+				"mainle",
+				"meteor-dapp-wallet/app/client/styles/main.less"
+			],
+			[
+				"icon",
+				"meteor-dapp-wallet/app/public/fontawesome/icons.less"
+			],
+			[
+				"hel",
+				"meteor-dapp-wallet/app/client/lib/helpers/helperFunctions.js"
+			],
+			[
+				"help",
+				"meteor-dapp-wallet/app/client/lib/helpers/helperFunctions.js"
+			],
+			[
+				"wall",
+				"meteor-dapp-wallet/app/i18n/wallet.en.i18n.json"
+			],
+			[
+				"layouhtml",
+				"meteor-dapp-wallet/app/client/templates/layout/main.html"
+			],
+			[
+				"walletc",
+				"meteor-dapp-wallet/app/client/lib/ethereum/walletConnector.js"
+			],
+			[
+				"wallecon",
+				"meteor-dapp-wallet/app/client/lib/ethereum/walletConnector.js"
+			],
+			[
+				"ma",
+				"meteor-dapp-wallet/app/client/styles/main.less"
+			],
+			[
+				"m",
+				"meteor-dapp-wallet/app/client/styles/main.less"
+			],
+			[
+				"col",
+				"meteor-dapp-wallet/app/client/lib/collections.js"
+			],
+			[
+				"hea",
+				"meteor-dapp-wallet/app/client/templates/layout/header.html"
+			],
+			[
+				"const",
+				"meteor-dapp-wallet/build/dapp-styles/constants.import.less"
+			],
+			[
+				"main.less",
+				"meteor-dapp-wallet/app/client/styles/main.less"
+			],
+			[
+				"pack",
+				"app/.meteor/packages"
+			],
+			[
+				"th",
+				"app/client/lib/thirdpartyConfig.js"
+			],
+			[
+				"thi",
+				"app/client/lib/thirdpartyConfig.js"
+			],
+			[
+				"thir",
+				"app/client/lib/thirdpartyConfig.js"
+			],
+			[
+				"bal",
+				"app/client/templates/elements/balance.js"
+			],
+			[
+				"baln",
+				"app/client/templates/elements/balance.html"
+			],
+			[
+				"eth",
+				"app/client/lib/thirdparty/ethereum.js"
+			],
+			[
+				"tem",
+				"app/client/lib/helpers/templateHelpers.js"
+			],
+			[
+				"cons",
+				"app/public/dapp-styles/constants.import.less"
+			],
+			[
+				"accou",
+				"app/client/templates/views/account.js"
+			],
+			[
+				"tehe",
+				"app/client/lib/helpers/templateHelpers.js"
+			],
+			[
+				"acc",
+				"app/client/templates/elements/account.html"
+			],
+			[
+				"accoun",
+				"app/client/templates/views/account.html"
+			],
+			[
+				"mainles",
+				"app/client/styles/main.less"
+			],
+			[
+				"hejs",
+				"app/client/templates/layout/header.js"
+			],
+			[
+				"head",
+				"app/client/templates/layout/header.html"
+			],
+			[
+				"elem",
+				"app/public/dapp-styles/elements.import.less"
+			],
+			[
+				"walle",
+				"app/i18n/wallet.en.i18n.json"
+			],
+			[
+				"sendh",
+				"app/client/templates/views/send.html"
+			],
+			[
+				"ele",
+				"app/public/dapp-styles/elements.import.less"
+			],
+			[
+				"wa",
+				"app/i18n/wallet.en.i18n.json"
+			],
+			[
+				"accjs",
+				"app/client/templates/elements/account.js"
+			],
+			[
+				"eleacc",
+				"app/client/templates/elements/account.html"
+			],
+			[
+				"app",
+				"app/i18n/app.en.i18n.json"
+			],
+			[
+				"crejs",
+				"app/client/templates/views/account_create.js"
+			],
+			[
+				"viwcc",
+				"app/client/templates/views/account_create.js"
+			],
+			[
+				"acccre",
+				"app/client/templates/views/account_create.js"
+			],
+			[
+				"accounh",
+				"app/client/templates/elements/account.html"
+			],
+			[
+				"conta",
+				"app/public/dapp-styles/containers.import.less"
+			],
+			[
+				"third",
+				"app/client/lib/thirdpartyConfig.js"
+			],
+			[
+				"senjs",
+				"app/client/templates/views/send.js"
+			],
+			[
+				"mixin",
+				"app/client/styles/dapp-styles/mixins.import.less"
+			],
+			[
+				"ide",
+				"app/client/templates/elements/identicon.html"
+			],
+			[
+				"maile",
+				"app/client/styles/main.less"
+			],
+			[
+				"dahs",
+				"app/client/templates/views/dashboard.html"
+			],
+			[
+				"cinst",
+				"app/.meteor/local/build/programs/server/npm/logging/node_modules/cli-color/node_modules/es5-ext/lib/String/prototype/case-insensitive-compare.js"
+			],
+			[
+				"varia",
+				"app/client/styles/dapp-styles/lib/base/base/_variables.import.less"
+			],
+			[
+				"con",
+				"app/client/styles/dapp-styles/containers.import.less"
+			],
+			[
+				"read",
+				"app/client/styles/dapp-styles/README.md"
+			],
+			[
+				"but",
+				"app/client/styles/dapp-styles/buttons.import.less"
+			],
+			[
+				"butt",
+				"app/client/styles/dapp-styles/buttons.import.less"
+			],
+			[
+				"dapp",
+				"app/client/styles/dapp-styles/dapp-styles.less"
+			],
+			[
+				"cont",
+				"app/client/styles/dapp-styles/containers.import.less"
+			],
+			[
+				"enty",
+				"app/public/dapp-styles/lib/entypoicons.import.less"
+			],
+			[
+				"mixn",
+				"app/public/fontawesome/mixins.less"
+			],
+			[
+				"dash",
+				"app/client/templates/views/dashboard.html"
+			],
+			[
+				"he",
+				"app/client/templates/layout/header.html"
+			],
+			[
+				"button",
+				"app/client/styles/dapp-styles/buttons.import.less"
+			],
+			[
+				"home",
+				"app/client/templates/views/home.html"
+			],
+			[
+				"chatite",
+				"app/client/templates/views/chats_aside_menuItem.js"
+			],
+			[
+				"chatasi",
+				"app/client/templates/views/chats_aside.js"
+			],
+			[
+				"chatht",
+				"app/client/templates/views/chats.html"
+			],
+			[
+				"routes",
+				"meteor-whisper-chat-client/app/client/routes.js"
+			],
+			[
+				"item",
+				"meteor-whisper-chat-client/app/client/templates/views/chats_item.js"
+			],
+			[
+				"chat",
+				"meteor-whisper-chat-client/app/client/templates/views/chats.js"
+			],
+			[
+				"action",
+				"whisper-client/app/client/templates/views/chats_actionbar.js"
+			],
+			[
+				"add",
+				"whisper-client/app/client/templates/views/modals/addUser.html"
+			],
+			[
+				"asiite",
+				"whisper-client/app/client/templates/views/chats_aside_menuItem.js"
+			],
+			[
+				"aside",
+				"whisper-client/app/client/templates/views/chats_aside.js"
+			],
+			[
+				"chathtm",
+				"whisper-client/app/client/templates/views/chats.html"
+			],
+			[
+				"whi",
+				"app/client/whisperConnector.js"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"helpf",
+				"app/client/lib/helpers/helperFunctions.js"
+			],
+			[
+				"addus",
+				"app/client/templates/views/modals/addUser.js"
+			],
+			[
+				"whis",
+				"app/client/whisperConnector.js"
+			],
+			[
+				"chas",
+				"app/client/templates/views/chats_aside.js"
+			],
+			[
+				"conat",
+				"app/client/styles/lib/dapp-styles/containers.import.less"
+			],
+			[
+				"chi",
+				"app/client/templates/views/chats_item.js"
+			],
+			[
+				"chaite",
+				"app/client/templates/views/chats_item.js"
+			],
+			[
+				"chath",
+				"app/client/templates/views/chats.html"
+			],
+			[
+				"whifun",
+				"app/client/WhisperHelperFunctions.js"
+			],
+			[
+				"chatit",
+				"app/client/templates/views/chats_item.js"
+			],
+			[
+				"ch",
+				"app/client/templates/views/chats.html"
+			],
+			[
+				"noth",
+				"app/client/templates/layout/notFound.html"
+			],
+			[
+				"prof",
+				"app/client/templates/views/modals/userProfile.html"
+			],
+			[
+				"ethe",
+				"app/client/lib/thirdparty/ethereum.js"
+			],
+			[
+				"addusejs",
+				"app/client/templates/views/modals/addUser.js"
+			],
+			[
+				"cha",
+				"app/client/templates/views/chats.js"
+			],
+			[
+				"profile",
+				"app/client/templates/views/modals/userProfile.html"
+			],
+			[
+				"adduser",
+				"app/client/templates/views/modals/addUser.html"
+			],
+			[
+				"profil",
+				"app/client/templates/views/modals/userProfile.html"
+			],
+			[
+				"chatjs",
+				"app/client/templates/views/chats.js"
+			],
+			[
+				"chatas",
+				"app/client/templates/views/chatsAside.js"
+			],
+			[
+				"chats",
+				"app/client/templates/views/chats.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/meteor-dapp-wallet.sublime-project"
+			],
+			[
+				"ether",
+				"~/Sites/ethereumjs.sublime-project"
+			],
+			[
+				"mis",
+				"~/Sites/mist.sublime-project"
+			],
+			[
+				"eth",
+				"~/Sites/ethereumjs.sublime-project"
+			],
+			[
+				"et",
+				"~/Sites/ethereumjs.sublime-project"
+			],
+			[
+				"go",
+				"~/Sites/go-ethereum.sublime-project"
+			],
+			[
+				"cat",
+				"~/Sites/dapp-catalog.sublime-project"
+			],
+			[
+				"am",
+				"~/Sites/amadeo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

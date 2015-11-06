@@ -1,0 +1,14 @@
+<template name="buyButton">
+    <div class="buy-button">
+        <button class="dapp-block-button {{getState 'class'}}">
+            {{#if TemplateVar.get "processing"}}
+                Processing...
+            {{else}}
+                {{getState 'buttonText'}}
+            {{/if}}
+        </button>
+        <span class="sub-text">
+            {{getState 'subText'}}
+        </span>
+    </div>
+</template>

@@ -1,0 +1,90 @@
+<head>
+  <title>My Sales Page</title>
+</head>
+
+<body>
+
+    <header class="dapp-header">
+
+        <h1 class="dapp-title">My Sales Page</h1>
+
+        <!-- <hgroup class="dapp-title">
+            <h1>My VR Shop</h1>
+            <h2>Everything you need for your next trip</h2>
+        </hgroup> -->
+
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">
+                        <i class="icon-user"></i>
+                        <span>About me</span>
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="#">
+                        <i class="icon-list"></i>
+                        <span>Items</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="dapp-flex-content">
+
+        <!-- aside -->
+        <!-- <aside class="dapp-aside">
+            <nav>
+                <ul>
+                    <li class="active">
+                        <a href="#">
+                            <i class="icon-tag"></i>
+                            <span>Oculus Rift</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="icon-tag"></i>
+                            <span>HTC Vive</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="icon-tag"></i>
+                            <span>PlayStation VR</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </aside> -->
+
+        <!-- content-->
+        <main class="dapp-content">
+
+            <h1>Buy My Oculus DK2</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco.
+            </p>
+
+            <div class="row clear">
+                <div class="col col-6 mobile-full">
+                    <img src="http://cdn.arstechnica.net/wp-content/uploads/2014/03/9464.jpg" style="width: 100%;">
+                </div>
+                <div class="col col-6 mobile-full">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua.
+                    </p>
+
+                    <!-- 1 ether price -->
+                    {{> buyButton contract="0xf4d7ed2ade05aa6d13d5e944bac091a4bc9f0553"}}
+                </div>
+            </div>
+        </main>
+
+    </div>
+
+</body>
