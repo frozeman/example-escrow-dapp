@@ -528,13 +528,10 @@
 			}
 		},
 		{
-			"contents": "# Magic escrow button\n\nThis Dapp uses [this simple escrow contract](https://gist.github.com/chriseth/b16e8e76a423b7671e99) to make a button itself the escro service.\n\nSimple change the contract address of the `{{> buyButton}}` in the index.html to a newly deployed contract.\n\nThen visit this page with web3 initialized",
 			"file": "README.md",
-			"file_size": 9,
-			"file_write_time": 130912985540000000,
 			"settings":
 			{
-				"buffer_size": 318,
+				"buffer_size": 444,
 				"line_ending": "Unix",
 				"name": "README.md"
 			}
@@ -551,7 +548,7 @@
 			"file": "client/buyButton.js",
 			"settings":
 			{
-				"buffer_size": 6656,
+				"buffer_size": 6795,
 				"line_ending": "Unix"
 			}
 		},
@@ -1127,7 +1124,7 @@
 						"translation.y": 883.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -1136,15 +1133,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 318,
+						"buffer_size": 444,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								318,
-								318
+								444,
+								444
 							]
 						],
 						"settings":
@@ -1195,15 +1192,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6656,
+						"buffer_size": 6795,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1954,
-								1954
+								104,
+								125
 							]
 						],
 						"settings":
@@ -1213,10 +1210,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1127.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
